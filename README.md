@@ -2,7 +2,7 @@
 I'm thrilled to announce that I've compiled and uploaded all my professional certifications to my GitHub repository! These certifications reflect my continuous learning journey and expertise in data analysis, data science, and various technical skills.
 I'm thrilled to announce that I've compiled and uploaded all my professional certifications to my GitHub repository! These certifications reflect my continuous learning journey and expertise in data analysis, data science, and various technical skills.
 
--- Certifications Included:
+--Certifications Included:
 - Anaconda Python for Data Science Professional Certificate: Proficiency in Python programming, data analysis, and statistics for data science applications​(Final Anaconda Python f…).
 - Master SQL for Data Science: Advanced SQL skills for data reporting, analysis, and optimization in various database environments​(Final Certificate Of Co…).
 - Microsoft Power BI Data Analyst Associate (PL-300): Mastery in transforming data into actionable insights using Power BI, covering data modeling, DAX, and advanced reporting​(Final Power BI Data Ana…).
