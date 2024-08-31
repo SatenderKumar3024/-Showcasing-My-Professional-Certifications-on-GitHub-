@@ -9,6 +9,7 @@ I'm thrilled to announce that I've compiled and uploaded all my professional cer
 - Data Visualization with Tableau Specialization: Expertise in creating impactful visualizations, dashboards, and data storytelling using Tableau​(Final Data Visualizatio…).
 - CompTIA Data+ (DA0-001): Comprehensive understanding of data analysis, mining, governance, and visualization techniques​(Final CompTIA Data+ (DA…).
 
+- More <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7235508692769480704" height="1006" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 # Why GitHub?
 - GitHub is not just a repository for code—it's a platform where I can document and showcase my professional growth. By uploading my certifications here, I aim to provide a comprehensive portfolio that reflects my technical expertise and dedication to continuous learning.
